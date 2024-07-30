@@ -79,3 +79,4 @@ C:\Users\maceh\Desktop\ObjProg2\Database_Lab\obj\Debug\net8.0-windows\refint\Dat
 C:\Users\maceh\Desktop\ObjProg2\Database_Lab\obj\Debug\net8.0-windows\Database_Lab.pdb
 C:\Users\maceh\Desktop\ObjProg2\Database_Lab\obj\Debug\net8.0-windows\Database_Lab.genruntimeconfig.cache
 C:\Users\maceh\Desktop\ObjProg2\Database_Lab\obj\Debug\net8.0-windows\ref\Database_Lab.dll
+C:\Users\maceh\Desktop\ObjProg2\Database_Lab\obj\Debug\net8.0-windows\Database_Lab.sourcelink.json
